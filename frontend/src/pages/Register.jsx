@@ -49,7 +49,7 @@ const Register = () => {
 							<Link to="/login">Already Register ? Click Here to login</Link>
 						</div>
 						<div className="text-center">
-							<button class="btn btn-primary d-block mx-auto mt-4">
+							<button className="btn btn-primary d-block mx-auto mt-4">
 								Register
 							</button>
 						</div>

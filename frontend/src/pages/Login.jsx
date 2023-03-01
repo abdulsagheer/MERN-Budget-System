@@ -50,7 +50,7 @@ const Login = () => {
 							<Link to="/register">Not a user ? Click Here to regsiter</Link>
 						</div>
 						<div className="text-center">
-							<button class="btn btn-primary d-block mx-auto mt-4">
+							<button className="btn btn-primary d-block mx-auto mt-4">
 								Login
 							</button>
 						</div>
